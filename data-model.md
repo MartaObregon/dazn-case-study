@@ -78,7 +78,7 @@ The new feature allows up to 4 DAZN customers to watch a sport event from the sa
 |              | competitionName     | String| "DAZN Linear"|
 |              | sportId     | String| "11qbnjiv23frz93gae1234a4"|
 |              | sportname     | String| "Motor"|
-|              | type     | String| "vod"|
+|              | type     | String[enum]| "vod"|
 |player              | playbackSessionId | String| "1655716256365-1afc44bd767b-y44drrjcqtxa18g3arxjz58ge-e91811"|
 |          | liveEdge | Boolean| true|
 |          | playerState | String| "start"|
